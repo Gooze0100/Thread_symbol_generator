@@ -1,0 +1,20 @@
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\bin\Debug\UVS Task.exe.config
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\bin\Debug\UVS Task.exe
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\bin\Debug\UVS Task.pdb
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task.csproj.AssemblyReference.cache
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\MainWindow.g.cs
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\App.g.cs
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task_MarkupCompile.cache
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task_MarkupCompile.lref
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\MainWindow.baml
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task.g.resources
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS_Task.Properties.Resources.resources
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task.csproj.GenerateResource.cache
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task.csproj.CoreCompileInputs.cache
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task.exe
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task.pdb
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\bin\Debug\Database\SymbolsDB.mdf
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\bin\Debug\Database\SymbolsDB_log.ldf
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\UVS Task_Content.g.cs
+C:\Users\Giedrius\Desktop\Udemy\Complete C# Masterclass\UVS Task\UVS Task\obj\Debug\App.baml
